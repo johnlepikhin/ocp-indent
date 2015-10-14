@@ -30,6 +30,8 @@ lib: [
   "?_obuild/ocp-indent.lexer/approx_tokens.cmt" {"lexer/approx_tokens.cmt"}
   "_obuild/ocp-indent.lexer/approx_lexer.cmi" {"lexer/approx_lexer.cmi"}
   "?_obuild/ocp-indent.lexer/approx_lexer.cmt" {"lexer/approx_lexer.cmt"}
+  "_obuild/ocp-indent.lexer/indentExtend.cmi" {"lexer/indentExtend.cmi"}
+  "?_obuild/ocp-indent.lexer/indentExtend.cmt" {"lexer/indentExtend.cmt"}
 ]
 man: [
   "man/man1/ocp-indent.1"
